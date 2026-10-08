@@ -29,7 +29,7 @@ microservices-webspace/
 |-- database/create-databases.sql
 |-- backend/
 |   |-- eureka-server/      com.twixcy.eurekaserver
-|   |-- api-gateway/        com.twixcy.apigateway   (routes, CORS, SessionAuthFilter)
+|   |-- api-gateway/        com.twixcy.apigateway (routes ,sessions)
 |   |-- auth-service/       com.twixcy.authservice
 |   |-- customer-service/   com.twixcy.customerservice
 |   |-- tweet-service/      com.twixcy.tweetservice
